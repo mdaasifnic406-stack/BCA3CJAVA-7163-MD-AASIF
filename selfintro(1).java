@@ -3,7 +3,7 @@ class selfintro
 {
 	public static void main(String[] args)
 		{
-			System.out.println(" my self MD AASIGF from bihar");
+			System.out.println(" my self MD AASIF from bihar");
 			System.out.println("i am here in marwadi university to complete my course bca");
 			System.out.println("i took addmission in marwadi university because its a better college for tech degrees");
 			System.out.println(" my hobbie is to play cricket and read story books");
