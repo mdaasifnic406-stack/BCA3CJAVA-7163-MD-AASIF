@@ -1,3 +1,6 @@
+// Program No: 03
+// Write a java program to perform simple inheritance.
+
 class Animal
 {
     String name = "Animal";
